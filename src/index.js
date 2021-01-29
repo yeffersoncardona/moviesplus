@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import "antd/dist/antd.css";
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import './index.css';
+import "rc-pagination/assets/index.css";
 
 ReactDOM.render(
   <React.StrictMode>
